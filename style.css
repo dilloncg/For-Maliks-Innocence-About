@@ -1,0 +1,23 @@
+body{
+  margin: 0px;
+  background: black;
+}
+
+img{
+  height: 700px;
+  width: 500px;
+  margin-left: 450px;
+}
+
+h1{
+  font: 100px helvetica;
+  color: white;
+  text-align: left;
+}
+
+p1{
+  font: 40px helvetica;
+  color: white;
+  text-align: left;
+  margin-left: 100px;
+}
